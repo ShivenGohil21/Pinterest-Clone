@@ -1,0 +1,15 @@
+-> to do in backD
+comment
+pin , update,delete
+
+-> now in frontend starting
+1) how to join frontD and backD
+
+
+
+-> my profile in backD error is coming 
+
+
+
+
+-> pin is created in ozee and in the mongo compass pinContext copy then i home it will see
